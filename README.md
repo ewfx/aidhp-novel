@@ -143,14 +143,14 @@ Expanding Beyond Voice & Text – Our smart bot will support image, video, and o
 Multilingual AI Expansion to serve diverse global users with financial accessibility needs.
 
 ## 🛠️ How We Built It
-python
-streamlit
-jypyter notebook
-gemini api
-numpy
-pandas
-scikit learn
-xgboost
+python,
+streamlit,
+jypyter notebook,
+gemini api,
+numpy,
+pandas,
+scikit learn,
+xgboost,
 speech recognition libraries
 
 ## 🚧 Challenges We Faced
@@ -177,7 +177,7 @@ interaction styles.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-  [git clone https://github.com/your-repo.git](https://github.com/ewfx/aidhp-novel.git)
+  https://github.com/ewfx/aidhp-novel.git
    ```
 2. Install dependencies  
    ```sh
