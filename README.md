@@ -70,7 +70,7 @@ ADHD & neurodivergent individuals struggle with impulsive spending and lack o
 
 
 ## 🎥 Demo
-📹 [Video Demo](https://youtu.be/-i8bD_Mvxjo) 
+📹 [Video Demo]([https://youtu.be/-i8bD_Mvxjo](https://youtu.be/63i9UQxaEzI)) 
 
 
 ## 💡 Inspiration
