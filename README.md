@@ -177,7 +177,7 @@ interaction styles.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-  https://github.com/ewfx/aidhp-novel.git
+     https://github.com/ewfx/aidhp-novel.git
    ```
 2. Install dependencies  
    ```sh
