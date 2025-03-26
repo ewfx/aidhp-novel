@@ -92,7 +92,7 @@ We observed that banks provide rigid, one-size-fits-all solutions, which do not 
 **2.Accessibility & Inclusion**
 We wanted to empower every generation, including:
 
-✅Elderly users who need fraud protection and voice-based assistance.
+✅Elderly users who need fraud protection **and voice-based assistance**.
 
 ✅Neurodivergent users who benefit from smart financial reminders.
 
