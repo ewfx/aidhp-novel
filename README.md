@@ -48,6 +48,8 @@ ADHD & neurodivergent individuals struggle with impulsive spending and lack o
 **Neurodivergent Financial Coaching** – NLP chatbots & adaptive smart reminders help improve financial habits.
 
 
+
+
 ![image](https://github.com/user-attachments/assets/36aace3c-6cb8-46be-8412-0e18d44d6773)
 
 
