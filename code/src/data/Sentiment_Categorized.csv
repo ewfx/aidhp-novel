@@ -1,0 +1,101 @@
+Customer_id,Post_id,Platform,Content,Timestamp,Sentiment_Score,Intent,Sentiment Score,Sentiment Category
+CUST_IND_54,POST_1,LinkedIn,Navigating fluctuations raw material prices!! Cash Flow planning is KEY!,2024-12-13 09:57:46.795,0,Complaint,0.26630488,Negative
+CUST_IND_17,POST_2,LinkedIn,Loving the new fashion trends this season!,2024-10-26 09:57:46.795,1,Praise,0.9884008,Positive
+CUST_IND_14,POST_3,Instagram,Just finished a 5K run! Need new running shoes. Any suggestions?,2024-11-18 09:57:46.795,1,Inquiry,0.15677425,Negative
+CUST_IND_35,POST_4,LinkedIn,Exciting collaborations coming soon!! Guess which celeb is joining our campaign?,2024-11-17 09:57:46.795,1,Praise,0.9814439,Positive
+CUST_IND_3,POST_5,LinkedIn,Need to start saving more. Thinking of opening a deposit account,2025-02-16 09:57:46.795,0,Complaint,0.35717553,Negative
+CUST_IND_10,POST_6,LinkedIn,Whats the best way to integrate blockchain for textile supply chain transparency?,2024-12-28 09:57:46.795,1,Praise,0.1486481,Negative
+CUST_IND_64,POST_7,Twitter,Struggling to stick to my budget this month.,2024-06-15 09:57:46.795,1,Complaint,0.04229592,Negative
+CUST_IND_7,POST_8,LinkedIn,Trying out the new Tesla self-driving update. Feels like future!!,2024-07-19 09:57:46.795,-1,Praise,0.97126657,Positive
+CUST_IND_24,POST_9,Twitter,Why do banks charge so many hidden fees? I need a no-fee checking account,2024-11-18 09:57:46.795,0,Inquiry,0.010433901,Negative
+CUST_IND_15,POST_10,Instagram,Sponsoring athletes is costly. Any creative financing options to support brand ambassadors?,2024-05-16 09:57:46.795,0,Inquiry,0.041851856,Negative
+CUST_IND_8,POST_11,Twitter,Meal prepping for the family! Need new lunchbox ideas,2024-04-02 09:57:46.795,0,Inquiry,0.5464494,Neutral
+CUST_IND_78,POST_12,Instagram,Why is my gym membership so expensive? Thinking of switching.,2024-10-07 09:57:46.795,1,Inquiry,0.009771419,Negative
+CUST_IND_42,POST_13,Twitter,Looking for efficient supply chain financing to handle seasonal demand spikes,2025-01-04 09:57:46.795,1,Suggestion,0.24620607,Negative
+CUST_IND_47,POST_14,Twitter,Capturing beautiful moments with newly bought iPhone! Love BNPL!,2025-02-23 09:57:46.795,-1,Inquiry,0.99192095,Positive
+CUST_IND_10,POST_15,LinkedIn,Excited to get promoted! Time to plan for wealth creation,2024-10-07 09:57:46.795,1,Complaint,0.9892323,Positive
+CUST_IND_97,POST_16,Twitter,Our latest organic products are now available in Whole Foods! Expanding distribution channels!,2024-10-28 09:57:46.795,0,Praise,0.91834486,Positive
+CUST_IND_89,POST_17,Twitter,"Old movies were a delight to eyes. These days, its just action!!!",2025-02-07 09:57:46.795,-1,Inquiry,0.6588892,Neutral
+CUST_IND_64,POST_18,LinkedIn,The rising costs of premium fabrics is impacting pricing strategy. Exploring Financial options!,2024-12-30 09:57:46.795,0,Suggestion,0.064230844,Negative
+CUST_IND_43,POST_19,LinkedIn,Just landed in Bali!! Best WiFi cafes for digital nomads?,2024-09-08 09:57:46.795,1,Praise,0.45819882,Neutral
+CUST_IND_49,POST_20,LinkedIn,Trying out new beauty products!,2025-03-08 09:57:46.795,-1,Inquiry,0.59425455,Neutral
+CUST_IND_48,POST_21,Instagram,Marketing volatility ahead - looking at safer hedge fund strategies,2025-01-06 09:57:46.795,0,Complaint,0.06537676,Negative
+CUST_IND_3,POST_22,Instagram,Excited about the new digital banking solutions we are rolling out!!,2024-12-02 09:57:46.795,-1,Complaint,0.99042225,Positive
+CUST_IND_43,POST_23,Facebook,Looking for sustainable finance options to increase eco-friendly fabric sourcing!!,2024-07-25 09:57:46.795,-1,Inquiry,0.7326265,Positive
+CUST_IND_46,POST_24,LinkedIn,Can't wait for the new game!,2025-03-04 09:57:46.795,1,Inquiry,0.9917551,Positive
+CUST_IND_77,POST_25,Instagram,Concerned about the recent market volatility.,2024-11-06 09:57:46.795,1,Complaint,0.015480965,Negative
+CUST_IND_40,POST_26,LinkedIn,Struggling with delayed invoice payments - need better financial management tools,2024-09-17 09:57:46.795,-1,Inquiry,0.029183932,Negative
+CUST_IND_7,POST_27,Instagram,Any suggestions for travel credit cards in Bali,2024-11-19 09:57:46.795,1,Suggestion,0.041791886,Negative
+CUST_IND_34,POST_28,Facebook,Love how Whole Foods always stocks fresh organic produce!!!,2024-06-28 09:57:46.795,-1,Inquiry,0.9832041,Positive
+CUST_IND_74,POST_29,Instagram,Navigating high cash flow during seasonal demand shifts is always a challenge - need better financing options,2025-03-20 09:57:46.795,-1,Complaint,0.057869334,Negative
+CUST_IND_86,POST_30,LinkedIn,Happy with the new premium credit card benefits,2025-02-06 09:57:46.795,-1,Inquiry,0.9771978,Positive
+CUST_IND_1,POST_31,Facebook,Navigating fluctuations raw material prices!! Cash Flow planning is KEY!,2024-03-30 09:57:46.795,0,Praise,0.26630488,Negative
+CUST_IND_67,POST_32,Instagram,Loving the new fashion trends this season!,2024-04-09 09:57:46.795,0,Complaint,0.9884008,Positive
+CUST_IND_97,POST_33,Facebook,Just finished a 5K run! Need new running shoes. Any suggestions?,2024-11-06 09:57:46.795,0,Complaint,0.15677425,Negative
+CUST_IND_24,POST_34,Facebook,Exciting collaborations coming soon!! Guess which celeb is joining our campaign?,2024-09-14 09:57:46.795,-1,Praise,0.9814439,Positive
+CUST_IND_9,POST_35,Twitter,Need to start saving more. Thinking of opening a deposit account,2024-08-03 09:57:46.795,1,Suggestion,0.35717553,Negative
+CUST_IND_19,POST_36,Twitter,Whats the best way to integrate blockchain for textile supply chain transparency?,2025-01-10 09:57:46.795,-1,Inquiry,0.1486481,Negative
+CUST_IND_17,POST_37,Facebook,Struggling to stick to my budget this month.,2025-02-11 09:57:46.795,-1,Inquiry,0.04229592,Negative
+CUST_IND_67,POST_38,Instagram,Trying out the new Tesla self-driving update. Feels like future!!,2024-04-05 09:57:46.795,0,Inquiry,0.97126657,Positive
+CUST_IND_87,POST_39,Facebook,Why do banks charge so many hidden fees? I need a no-fee checking account,2024-07-25 09:57:46.795,0,Inquiry,0.010433901,Negative
+CUST_IND_91,POST_40,Facebook,Sponsoring athletes is costly. Any creative financing options to support brand ambassadors?,2024-07-14 09:57:46.795,1,Complaint,0.041851856,Negative
+CUST_IND_4,POST_41,Twitter,Meal prepping for the family! Need new lunchbox ideas,2024-10-24 09:57:46.795,1,Suggestion,0.5464494,Neutral
+CUST_IND_38,POST_42,LinkedIn,Why is my gym membership so expensive? Thinking of switching.,2024-06-11 09:57:46.795,0,Praise,0.009771419,Negative
+CUST_IND_91,POST_43,Twitter,Looking for efficient supply chain financing to handle seasonal demand spikes,2025-02-06 09:57:46.795,0,Inquiry,0.24620607,Negative
+CUST_IND_26,POST_44,Facebook,Capturing beautiful moments with newly bought iPhone! Love BNPL!,2025-02-28 09:57:46.795,0,Inquiry,0.99192095,Positive
+CUST_IND_22,POST_45,Facebook,Excited to get promoted! Time to plan for wealth creation,2024-12-25 09:57:46.795,1,Complaint,0.9892323,Positive
+CUST_IND_83,POST_46,LinkedIn,Our latest organic products are now available in Whole Foods! Expanding distribution channels!,2024-12-26 09:57:46.795,1,Suggestion,0.91834486,Positive
+CUST_IND_68,POST_47,Facebook,"Old movies were a delight to eyes. These days, its just action!!!",2024-10-23 09:57:46.795,1,Complaint,0.6588892,Neutral
+CUST_IND_46,POST_48,Twitter,The rising costs of premium fabrics is impacting pricing strategy. Exploring Financial options!,2024-05-20 09:57:46.795,0,Praise,0.064230844,Negative
+CUST_IND_48,POST_49,Facebook,Just landed in Bali!! Best WiFi cafes for digital nomads?,2025-01-14 09:57:46.795,-1,Suggestion,0.45819882,Neutral
+CUST_IND_35,POST_50,LinkedIn,Trying out new beauty products!,2024-09-01 09:57:46.795,1,Praise,0.59425455,Neutral
+CUST_IND_91,POST_51,Twitter,Marketing volatility ahead - looking at safer hedge fund strategies,2024-05-11 09:57:46.795,0,Complaint,0.06537676,Negative
+CUST_IND_49,POST_52,Facebook,Excited about the new digital banking solutions we are rolling out!!,2025-01-05 09:57:46.795,0,Inquiry,0.99042225,Positive
+CUST_IND_37,POST_53,Twitter,Looking for sustainable finance options to increase eco-friendly fabric sourcing!!,2024-09-09 09:57:46.795,1,Suggestion,0.7326265,Positive
+CUST_IND_65,POST_54,Instagram,Navigating fluctuations raw material prices!! Cash Flow planning is KEY!,2024-09-02 09:57:46.795,0,Praise,0.26630488,Negative
+CUST_IND_56,POST_55,LinkedIn,Loving the new fashion trends this season!,2025-01-15 09:57:46.795,-1,Inquiry,0.9884008,Positive
+CUST_IND_12,POST_56,Twitter,Just finished a 5K run! Need new running shoes. Any suggestions?,2024-10-31 09:57:46.795,1,Inquiry,0.15677425,Negative
+CUST_IND_24,POST_57,Twitter,Exciting collaborations coming soon!! Guess which celeb is joining our campaign?,2024-12-01 09:57:46.795,0,Suggestion,0.9814439,Positive
+CUST_IND_95,POST_58,Instagram,Need to start saving more. Thinking of opening a deposit account,2024-12-10 09:57:46.795,1,Praise,0.35717553,Negative
+CUST_IND_72,POST_59,Instagram,Whats the best way to integrate blockchain for textile supply chain transparency?,2024-11-04 09:57:46.795,-1,Praise,0.1486481,Negative
+CUST_IND_49,POST_60,LinkedIn,Struggling to stick to my budget this month.,2024-06-26 09:57:46.795,0,Praise,0.04229592,Negative
+CUST_IND_70,POST_61,Instagram,Trying out the new Tesla self-driving update. Feels like future!!,2024-05-23 09:57:46.795,1,Complaint,0.97126657,Positive
+CUST_IND_11,POST_62,Facebook,Why do banks charge so many hidden fees? I need a no-fee checking account,2024-07-09 09:57:46.795,0,Inquiry,0.010433901,Negative
+CUST_IND_94,POST_63,Instagram,Sponsoring athletes is costly. Any creative financing options to support brand ambassadors?,2025-01-02 09:57:46.795,1,Praise,0.041851856,Negative
+CUST_IND_66,POST_64,LinkedIn,Meal prepping for the family! Need new lunchbox ideas,2024-05-03 09:57:46.795,0,Suggestion,0.5464494,Neutral
+CUST_IND_65,POST_65,LinkedIn,Why is my gym membership so expensive? Thinking of switching.,2024-04-28 09:57:46.795,-1,Suggestion,0.009771419,Negative
+CUST_IND_19,POST_66,Instagram,Looking for efficient supply chain financing to handle seasonal demand spikes,2024-12-01 09:57:46.795,1,Inquiry,0.24620607,Negative
+CUST_IND_12,POST_67,LinkedIn,Capturing beautiful moments with newly bought iPhone! Love BNPL!,2024-12-27 09:57:46.795,-1,Praise,0.99192095,Positive
+CUST_IND_75,POST_68,Instagram,Excited to get promoted! Time to plan for wealth creation,2024-09-20 09:57:46.795,-1,Praise,0.9892323,Positive
+CUST_IND_22,POST_69,Twitter,Our latest organic products are now available in Whole Foods! Expanding distribution channels!,2025-02-26 09:57:46.795,-1,Suggestion,0.91834486,Positive
+CUST_IND_62,POST_70,LinkedIn,"Old movies were a delight to eyes. These days, its just action!!!",2025-01-01 09:57:46.795,-1,Complaint,0.6588892,Neutral
+CUST_IND_18,POST_71,Twitter,The rising costs of premium fabrics is impacting pricing strategy. Exploring Financial options!,2024-08-01 09:57:46.795,-1,Inquiry,0.064230844,Negative
+CUST_IND_31,POST_72,LinkedIn,Just landed in Bali!! Best WiFi cafes for digital nomads?,2024-07-29 09:57:46.795,-1,Inquiry,0.45819882,Neutral
+CUST_IND_21,POST_73,Twitter,Trying out new beauty products!,2025-03-12 09:57:46.795,-1,Complaint,0.59425455,Neutral
+CUST_IND_91,POST_74,Twitter,Marketing volatility ahead - looking at safer hedge fund strategies,2024-12-16 09:57:46.795,1,Complaint,0.06537676,Negative
+CUST_IND_2,POST_75,Instagram,Excited about the new digital banking solutions we are rolling out!!,2024-03-25 09:57:46.795,-1,Complaint,0.99042225,Positive
+CUST_IND_45,POST_76,Facebook,Looking for sustainable finance options to increase eco-friendly fabric sourcing!!,2025-02-09 09:57:46.795,1,Complaint,0.7326265,Positive
+CUST_IND_42,POST_77,Facebook,Navigating fluctuations raw material prices!! Cash Flow planning is KEY!,2024-04-14 09:57:46.795,1,Suggestion,0.26630488,Negative
+CUST_IND_12,POST_78,Facebook,Loving the new fashion trends this season!,2024-03-30 09:57:46.795,-1,Inquiry,0.9884008,Positive
+CUST_IND_16,POST_79,Instagram,Just finished a 5K run! Need new running shoes. Any suggestions?,2024-06-03 09:57:46.795,0,Suggestion,0.15677425,Negative
+CUST_IND_53,POST_80,Facebook,Exciting collaborations coming soon!! Guess which celeb is joining our campaign?,2025-03-01 09:57:46.795,1,Praise,0.9814439,Positive
+CUST_IND_85,POST_81,Twitter,Need to start saving more. Thinking of opening a deposit account,2024-08-24 09:57:46.795,0,Praise,0.35717553,Negative
+CUST_IND_27,POST_82,Twitter,Whats the best way to integrate blockchain for textile supply chain transparency?,2024-05-15 09:57:46.795,0,Suggestion,0.1486481,Negative
+CUST_IND_25,POST_83,Facebook,Struggling to stick to my budget this month.,2025-01-14 09:57:46.795,1,Praise,0.04229592,Negative
+CUST_IND_26,POST_84,Instagram,Trying out the new Tesla self-driving update. Feels like future!!,2024-12-18 09:57:46.795,1,Praise,0.97126657,Positive
+CUST_IND_86,POST_85,Instagram,Why do banks charge so many hidden fees? I need a no-fee checking account,2025-01-28 09:57:46.795,-1,Complaint,0.010433901,Negative
+CUST_IND_14,POST_86,Instagram,Sponsoring athletes is costly. Any creative financing options to support brand ambassadors?,2024-05-21 09:57:46.795,-1,Inquiry,0.041851856,Negative
+CUST_IND_66,POST_87,Instagram,Meal prepping for the family! Need new lunchbox ideas,2024-07-20 09:57:46.795,0,Praise,0.5464494,Neutral
+CUST_IND_98,POST_88,Instagram,Why is my gym membership so expensive? Thinking of switching.,2024-03-22 09:57:46.795,1,Praise,0.009771419,Negative
+CUST_IND_37,POST_89,LinkedIn,Looking for efficient supply chain financing to handle seasonal demand spikes,2024-08-05 09:57:46.795,1,Inquiry,0.24620607,Negative
+CUST_IND_56,POST_90,LinkedIn,Capturing beautiful moments with newly bought iPhone! Love BNPL!,2024-06-03 09:57:46.795,0,Praise,0.99192095,Positive
+CUST_IND_24,POST_91,Twitter,Excited to get promoted! Time to plan for wealth creation,2024-08-05 09:57:46.795,1,Suggestion,0.9892323,Positive
+CUST_IND_71,POST_92,Instagram,Our latest organic products are now available in Whole Foods! Expanding distribution channels!,2024-11-27 09:57:46.795,1,Inquiry,0.91834486,Positive
+CUST_IND_62,POST_93,LinkedIn,"Old movies were a delight to eyes. These days, its just action!!!",2024-07-07 09:57:46.795,0,Complaint,0.6588892,Neutral
+CUST_IND_81,POST_94,Facebook,The rising costs of premium fabrics is impacting pricing strategy. Exploring Financial options!,2025-01-05 09:57:46.795,0,Suggestion,0.064230844,Negative
+CUST_IND_27,POST_95,LinkedIn,Just landed in Bali!! Best WiFi cafes for digital nomads?,2024-11-02 09:57:46.795,1,Complaint,0.45819882,Neutral
+CUST_IND_38,POST_96,LinkedIn,Trying out new beauty products!,2024-03-29 09:57:46.795,1,Complaint,0.59425455,Neutral
+CUST_IND_72,POST_97,LinkedIn,Marketing volatility ahead - looking at safer hedge fund strategies,2024-11-10 09:57:46.795,1,Praise,0.06537676,Negative
+CUST_IND_18,POST_98,Facebook,Excited about the new digital banking solutions we are rolling out!!,2024-08-02 09:57:46.795,-1,Complaint,0.99042225,Positive
+CUST_IND_15,POST_99,LinkedIn,Looking for sustainable finance options to increase eco-friendly fabric sourcing!!,2024-10-04 09:57:46.795,0,Complaint,0.7326265,Positive
+CUST_IND_64,POST_100,Facebook,Sample content 100,2024-08-22 09:57:46.795,1,Suggestion,0.17099747,Negative

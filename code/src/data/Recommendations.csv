@@ -1,0 +1,152 @@
+Customer_id,Product ID,Transaction Type,Category,Amount (In Dollars),Purchase Date,Payment Mode,Sentiment Category,Recommendations
+CUST2025A,201,Luxury Shopping,Gucci,3000,2025-05-01 00:00:00,Credit Card,Neutral,Savings Account Upgrade
+ORG_US_004,202,Retail Space Lease,New Flagship store,500000,2025-10-02 00:00:00,Wire Transfer,Neutral,Savings Account Upgrade
+CUST2025S,203,Luxury Travel Booking,London Business Trip,4500,2025-10-02 00:00:00,Amex Platinum,Neutral,Savings Account Upgrade
+ORG_US_007,204,Research & Development,Sustainable Fabric Innovations,2500000,2/29/2025,Wire Transfer,Neutral,Savings Account Upgrade
+CUST2025A,205,Stock Investment,Equity,25000,2025-02-01 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025A,206,Travel Booking,International Flight,5000,2/17/2025,Credit Card,Neutral,Savings Account Upgrade
+ORG_US_002,207,Marketing Promotions,Branding and Social Media Ads,150000,3/30/2025,ACH Debit,Neutral,Savings Account Upgrade
+CUST2025U,208,Investment Contribution,Hedge Fund,50000,2024-10-12 00:00:00,Wire Transfer,Neutral,Savings Account Upgrade
+ORG_US_006,209,Fabric Procurement,Italian Silk & Cashmere,1000000,2/23/2025,Bank Wire,Neutral,Savings Account Upgrade
+CUST2025E,210,Flight Booking,New York to Tokyo,1200,2025-01-03 00:00:00,Chase Sapphire Travel Card,Neutral,Savings Account Upgrade
+ORG_US_006,211,Expansion Loan,New Flagship stores,5000000,1/15/2025,Business Loan,Neutral,Savings Account Upgrade
+CUST2025A,212,Loan EMI,Car Loan,1000,2025-05-01 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025B,213,IRA Contribution,Vanguard,500,2025-10-01 00:00:00,Net Banking,Neutral,Savings Account Upgrade
+ORG_US_006,214,E-Commerce Tech Investment,AI-Powered Personalization,7000000,2025-05-03 00:00:00,Bank Transfer,Neutral,Savings Account Upgrade
+CUST2025D,215,Grocery Shopping,Costco,100,1/20/2025,Debit Card,Neutral,Savings Account Upgrade
+ORG_US_001,216,Cloud Services Fees,AWS and Microsoft Azure,100000,2/20/2025,Corporate Card,Neutral,Savings Account Upgrade
+CUST2025S,217,Mortgage Payment,Home Loan Repayment,3500,2025-05-03 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025P,218,BNPL Purchase,PlayStation,800,1/25/2025,Affirm,Neutral,Savings Account Upgrade
+ORG_US_005,219,Technology Investment,AI-Powered E-commerce Platform,3500000,9/13/2024,Business Loan,Neutral,Savings Account Upgrade
+CUST2025D,220,Fixed Deposit,Bank CD,10000,1/30/2025,Net Banking,Neutral,Savings Account Upgrade
+ORG_US_002,221,Supplier Payments,Organic Seeds and Materials,800000,2025-01-01 00:00:00,Wire Transfer,Neutral,Savings Account Upgrade
+CUST2025C,222,BNPL Purchase,iPhone,1200,2025-04-02 00:00:00,Amex Platinum,Neutral,Savings Account Upgrade
+CUST2025E,223,Hotel Stay,Maldives Resort,850,2/16/2025,Amex Platinum,Neutral,Savings Account Upgrade
+ORG_US_004,224,Marketing Spend,Influencer And Digital Ads,1200000,1/29/2025,Corporate Credit Card,Neutral,Savings Account Upgrade
+CUST2025A,225,Loan EMI,Loans,1000,2025-10-01 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025B,226,Grocery Shopping,Walmart,250,2025-09-02 00:00:00,Debit Card,Neutral,Savings Account Upgrade
+ORG_US_001,227,Business Loan Repayment,Term Loan,50000,2/14/2025,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025J,228,Grocery Shopping,Whole Foods,150,2/14/2025,Credit Card,Neutral,Savings Account Upgrade
+CUST2025D,229,Pharmacy Bill,Walgreens,75,2/19/2025,Credit Card,Neutral,Savings Account Upgrade
+ORG_US_001,230,Payroll Processing,Employee Salaries,200000,1/29/2025,ACH Transfer,Neutral,Savings Account Upgrade
+CUST2025C,231,Crypto Investment,Ethereum,5000,2025-05-03 00:00:00,PayPal,Neutral,Savings Account Upgrade
+ORG_US_004,232,Supplier Payments,Sustainable Fabric Import,350000,1/30/2025,Bank Transfer,Neutral,Savings Account Upgrade
+CUST2025U,233,Luxury Travel Booking,Villa in Tuscany,6500,2/20/2025,Amex Black Card,Neutral,Savings Account Upgrade
+CUST2025B,234,Mortgage Payment,Wells Fargo,2500,2/25/2025,Auto Debit,Neutral,Savings Account Upgrade
+ORG_US_005,235,Marketing & Events,Sports Sponsorships & Promotions,150000,2025-01-03 00:00:00,Corporate Credit Card,Neutral,Savings Account Upgrade
+CUST_IND_50,PROD_50,Purchase,Entertainment,4870,2024-10-13 09:57:46.797000,Debit Card,Neutral,Savings Account Upgrade
+CUST_IND_26,PROD_48,Purchase,Healthcare,4098,2024-11-02 09:57:46.797000,Credit Card,Positive,Savings Account Upgrade
+CUST_IND_26,PROD_48,Purchase,Healthcare,4098,2024-11-02 09:57:46.797000,Credit Card,Positive,Savings Account Upgrade
+CUST_IND_98,PROD_42,Subscription,Electronics,4463,2024-09-06 09:57:46.797000,Cash,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_74,PROD_16,Subscription,Entertainment,2377,2024-12-07 09:57:46.797000,Bank Transfer,Negative,Savings Account Upgrade
+CUST_IND_32,PROD_16,Subscription,Entertainment,2817,2024-07-09 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_77,PROD_27,Subscription,Electronics,4024,2025-03-08 09:57:46.797000,Cash,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_74,PROD_34,Refund,Clothing,4958,2024-09-05 09:57:46.797000,Bank Transfer,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_85,PROD_11,Purchase,Groceries,2913,2024-07-15 09:57:46.797000,Credit Card,Negative,Savings Account Upgrade
+CUST_IND_39,PROD_41,Subscription,Clothing,750,2024-08-21 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_89,PROD_29,Subscription,Healthcare,2610,2025-01-13 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_52,PROD_2,Purchase,Clothing,646,2024-11-21 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_79,PROD_32,Subscription,Healthcare,1112,2025-01-01 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_36,PROD_36,Refund,Entertainment,4082,2024-06-02 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_50,PROD_47,Refund,Clothing,4693,2024-08-17 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_49,PROD_33,Purchase,Groceries,3787,2025-01-20 09:57:46.797000,Credit Card,Neutral,Savings Account Upgrade
+CUST_IND_49,PROD_33,Purchase,Groceries,3787,2025-01-20 09:57:46.797000,Credit Card,Positive,Savings Account Upgrade
+CUST_IND_49,PROD_33,Purchase,Groceries,3787,2025-01-20 09:57:46.797000,Credit Card,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_89,PROD_18,Subscription,Entertainment,1746,2024-12-29 09:57:46.797000,Debit Card,Neutral,Savings Account Upgrade
+CUST_IND_10,PROD_26,Refund,Healthcare,739,2024-09-02 09:57:46.797000,Bank Transfer,Negative,Savings Account Upgrade
+CUST_IND_10,PROD_26,Refund,Healthcare,739,2024-09-02 09:57:46.797000,Bank Transfer,Positive,Savings Account Upgrade
+CUST_IND_44,PROD_9,Purchase,Healthcare,1568,2024-06-12 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_95,PROD_30,Subscription,Electronics,2249,2024-07-26 09:57:46.797000,Cash,Negative,Savings Account Upgrade
+CUST_IND_90,PROD_18,Purchase,Groceries,2599,2024-11-27 09:57:46.797000,Credit Card,Neutral,Savings Account Upgrade
+CUST_IND_98,PROD_6,Refund,Clothing,392,2024-10-26 09:57:46.797000,Bank Transfer,Negative,Savings Account Upgrade
+CUST_IND_6,PROD_50,Purchase,Clothing,4625,2024-08-16 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_9,PROD_23,Refund,Groceries,3958,2024-06-24 09:57:46.797000,Debit Card,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_88,PROD_7,Purchase,Clothing,3758,2024-05-31 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_60,PROD_16,Purchase,Groceries,2520,2024-10-09 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_92,PROD_22,Purchase,Groceries,2682,2024-11-06 09:57:46.797000,Debit Card,Neutral,Savings Account Upgrade
+CUST_IND_44,PROD_24,Subscription,Entertainment,1373,2024-10-14 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_23,PROD_34,Refund,Electronics,3370,2024-12-30 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_25,PROD_30,Purchase,Electronics,1852,2024-06-13 09:57:46.797000,Debit Card,Negative,Savings Account Upgrade
+CUST_IND_60,PROD_16,Subscription,Clothing,2311,2024-08-01 09:57:46.797000,Debit Card,Neutral,Savings Account Upgrade
+CUST_IND_59,PROD_4,Subscription,Groceries,2912,2024-12-15 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_10,PROD_3,Subscription,Healthcare,4065,2024-05-26 09:57:46.797000,Credit Card,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_10,PROD_3,Subscription,Healthcare,4065,2024-05-26 09:57:46.797000,Credit Card,Positive,Savings Account Upgrade
+CUST_IND_100,PROD_41,Refund,Clothing,1472,2025-03-03 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_91,PROD_29,Subscription,Electronics,4035,2024-09-15 09:57:46.797000,Bank Transfer,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_91,PROD_29,Subscription,Electronics,4035,2024-09-15 09:57:46.797000,Bank Transfer,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_91,PROD_29,Subscription,Electronics,4035,2024-09-15 09:57:46.797000,Bank Transfer,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_91,PROD_29,Subscription,Electronics,4035,2024-09-15 09:57:46.797000,Bank Transfer,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_83,PROD_5,Subscription,Healthcare,1205,2024-04-27 09:57:46.797000,PayPal,Positive,Savings Account Upgrade
+CUST_IND_23,PROD_25,Purchase,Entertainment,1298,2024-12-06 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_71,PROD_16,Purchase,Groceries,4568,2025-02-25 09:57:46.797000,PayPal,Positive,Savings Account Upgrade
+CUST_IND_4,PROD_42,Subscription,Healthcare,3173,2024-05-25 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_89,PROD_36,Purchase,Entertainment,736,2024-05-31 09:57:46.797000,Credit Card,Neutral,Savings Account Upgrade
+CUST_IND_46,PROD_39,Refund,Electronics,4439,2024-08-18 09:57:46.797000,Bank Transfer,Positive,Savings Account Upgrade
+CUST_IND_46,PROD_39,Refund,Electronics,4439,2024-08-18 09:57:46.797000,Bank Transfer,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_42,PROD_34,Refund,Clothing,1774,2024-10-05 09:57:46.797000,Bank Transfer,Negative,Savings Account Upgrade
+CUST_IND_42,PROD_34,Refund,Clothing,1774,2024-10-05 09:57:46.797000,Bank Transfer,Negative,Savings Account Upgrade
+CUST_IND_75,PROD_13,Purchase,Clothing,2527,2024-10-27 09:57:46.797000,PayPal,Positive,Savings Account Upgrade
+CUST_IND_75,PROD_33,Subscription,Clothing,490,2024-06-09 09:57:46.797000,Cash,Positive,Savings Account Upgrade
+CUST_IND_31,PROD_43,Subscription,Entertainment,2965,2024-08-13 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_44,PROD_35,Refund,Electronics,3832,2024-06-22 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_74,PROD_34,Purchase,Healthcare,235,2024-11-07 09:57:46.797000,Cash,Negative,Savings Account Upgrade
+CUST_IND_28,PROD_28,Subscription,Groceries,854,2025-03-09 09:57:46.797000,Credit Card,Neutral,Savings Account Upgrade
+CUST_IND_17,PROD_22,Purchase,Groceries,1619,2025-01-17 09:57:46.797000,Bank Transfer,Positive,Savings Account Upgrade
+CUST_IND_17,PROD_22,Purchase,Groceries,1619,2025-01-17 09:57:46.797000,Bank Transfer,Negative,Savings Account Upgrade
+CUST_IND_81,PROD_39,Subscription,Entertainment,4184,2024-10-02 09:57:46.797000,Debit Card,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_98,PROD_21,Purchase,Entertainment,3874,2024-08-09 09:57:46.797000,PayPal,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_52,PROD_2,Refund,Entertainment,3866,2024-11-01 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_44,PROD_27,Purchase,Healthcare,1880,2024-06-26 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_53,PROD_7,Refund,Groceries,2186,2024-08-24 09:57:46.797000,Cash,Positive,Savings Account Upgrade
+CUST_IND_80,PROD_16,Refund,Electronics,2531,2024-06-16 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_23,PROD_5,Refund,Entertainment,2468,2025-02-24 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_15,PROD_25,Refund,Entertainment,4875,2024-10-03 09:57:46.797000,Credit Card,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_15,PROD_25,Refund,Entertainment,4875,2024-10-03 09:57:46.797000,Credit Card,Positive,Savings Account Upgrade
+CUST_IND_6,PROD_35,Subscription,Clothing,2430,2024-08-25 09:57:46.797000,Credit Card,Neutral,Savings Account Upgrade
+CUST_IND_88,PROD_36,Refund,Healthcare,2019,2024-11-30 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_68,PROD_50,Subscription,Entertainment,2036,2024-05-23 09:57:46.797000,Cash,Neutral,Savings Account Upgrade
+CUST_IND_81,PROD_21,Subscription,Healthcare,2133,2025-01-20 09:57:46.797000,Cash,Negative,Savings Account Upgrade
+CUST_IND_39,PROD_12,Subscription,Clothing,335,2025-02-20 09:57:46.797000,Debit Card,Neutral,Savings Account Upgrade
+CUST_IND_49,PROD_9,Subscription,Clothing,1907,2024-12-22 09:57:46.797000,PayPal,Neutral,Savings Account Upgrade
+CUST_IND_49,PROD_9,Subscription,Clothing,1907,2024-12-22 09:57:46.797000,PayPal,Positive,Savings Account Upgrade
+CUST_IND_49,PROD_9,Subscription,Clothing,1907,2024-12-22 09:57:46.797000,PayPal,Negative,Savings Account Upgrade
+CUST_IND_9,PROD_41,Purchase,Healthcare,1814,2024-09-29 09:57:46.797000,Credit Card,Negative,Savings Account Upgrade
+CUST_IND_39,PROD_12,Purchase,Healthcare,4929,2024-09-06 09:57:46.797000,Bank Transfer,Neutral,Savings Account Upgrade
+CUST_IND_27,PROD_5,Purchase,Entertainment,4120,2025-01-30 09:57:46.797000,Credit Card,Negative,"Low-Interest Credit Card, Debt Management Consultation"
+CUST_IND_27,PROD_5,Purchase,Entertainment,4120,2025-01-30 09:57:46.797000,Credit Card,Neutral,Savings Account Upgrade
+Customer ID,Product ID,Transaction Type,Category,Amount (In Dollars),Purchase Date,Payment Mode,Neutral,Savings Account Upgrade
+CUST2025A,201,Luxury Shopping,Gucci,3000,2025-05-01 00:00:00,Credit Card,Neutral,Savings Account Upgrade
+ORG_US_004,202,Retail Space Lease,New Flagship store,500000,2025-10-02 00:00:00,Wire Transfer,Neutral,Savings Account Upgrade
+CUST2025S,203,Luxury Travel Booking,London Business Trip,4500,2025-10-02 00:00:00,Amex Platinum,Neutral,Savings Account Upgrade
+ORG_US_007,204,Research & Development,Sustainable Fabric Innovations,2500000,2/29/2025,Wire Transfer,Neutral,Savings Account Upgrade
+CUST2025A,205,Stock Investment,Equity,25000,2025-02-01 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025A,206,Travel Booking,International Flight,5000,2/17/2025,Credit Card,Neutral,Savings Account Upgrade
+ORG_US_002,207,Marketing Promotions,Branding and Social Media Ads,150000,3/30/2025,ACH Debit,Neutral,Savings Account Upgrade
+CUST2025U,208,Investment Contribution,Hedge Fund,50000,2024-10-12 00:00:00,Wire Transfer,Neutral,Savings Account Upgrade
+ORG_US_006,209,Fabric Procurement,Italian Silk & Cashmere,1000000,2/23/2025,Bank Wire,Neutral,Savings Account Upgrade
+CUST2025E,210,Flight Booking,New York to Tokyo,1200,2025-01-03 00:00:00,Chase Sapphire Travel Card,Neutral,Savings Account Upgrade
+ORG_US_006,211,Expansion Loan,New Flagship stores,5000000,1/15/2025,Business Loan,Neutral,Savings Account Upgrade
+CUST2025A,212,Loan EMI,Car Loan,1000,2025-05-01 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025B,213,IRA Contribution,Vanguard,500,2025-10-01 00:00:00,Net Banking,Neutral,Savings Account Upgrade
+ORG_US_006,214,E-Commerce Tech Investment,AI-Powered Personalization,7000000,2025-05-03 00:00:00,Bank Transfer,Neutral,Savings Account Upgrade
+CUST2025D,215,Grocery Shopping,Costco,100,1/20/2025,Debit Card,Neutral,Savings Account Upgrade
+ORG_US_001,216,Cloud Services Fees,AWS and Microsoft Azure,100000,2/20/2025,Corporate Card,Neutral,Savings Account Upgrade
+CUST2025S,217,Mortgage Payment,Home Loan Repayment,3500,2025-05-03 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025P,218,BNPL Purchase,PlayStation,800,1/25/2025,Affirm,Neutral,Savings Account Upgrade
+ORG_US_005,219,Technology Investment,AI-Powered E-commerce Platform,3500000,9/13/2024,Business Loan,Neutral,Savings Account Upgrade
+CUST2025D,220,Fixed Deposit,Bank CD,10000,1/30/2025,Net Banking,Neutral,Savings Account Upgrade
+ORG_US_002,221,Supplier Payments,Organic Seeds and Materials,800000,2025-01-01 00:00:00,Wire Transfer,Neutral,Savings Account Upgrade
+CUST2025C,222,BNPL Purchase,iPhone,1200,2025-04-02 00:00:00,Amex Platinum,Neutral,Savings Account Upgrade
+CUST2025E,223,Hotel Stay,Maldives Resort,850,2/16/2025,Amex Platinum,Neutral,Savings Account Upgrade
+ORG_US_004,224,Marketing Spend,Influencer And Digital Ads,1200000,1/29/2025,Corporate Credit Card,Neutral,Savings Account Upgrade
+CUST2025A,225,Loan EMI,Loans,1000,2025-10-01 00:00:00,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025B,226,Grocery Shopping,Walmart,250,2025-09-02 00:00:00,Debit Card,Neutral,Savings Account Upgrade
+ORG_US_001,227,Business Loan Repayment,Term Loan,50000,2/14/2025,Auto Debit,Neutral,Savings Account Upgrade
+CUST2025J,228,Grocery Shopping,Whole Foods,150,2/14/2025,Credit Card,Neutral,Savings Account Upgrade
+CUST2025D,229,Pharmacy Bill,Walgreens,75,2/19/2025,Credit Card,Neutral,Savings Account Upgrade
+ORG_US_001,230,Payroll Processing,Employee Salaries,200000,1/29/2025,ACH Transfer,Neutral,Savings Account Upgrade
+CUST2025C,231,Crypto Investment,Ethereum,5000,2025-05-03 00:00:00,PayPal,Neutral,Savings Account Upgrade
+ORG_US_004,232,Supplier Payments,Sustainable Fabric Import,350000,1/30/2025,Bank Transfer,Neutral,Savings Account Upgrade
+CUST2025U,233,Luxury Travel Booking,Villa in Tuscany,6500,2/20/2025,Amex Black Card,Neutral,Savings Account Upgrade
+CUST2025B,234,Mortgage Payment,Wells Fargo,2500,2/25/2025,Auto Debit,Neutral,Savings Account Upgrade
+ORG_US_005,235,Marketing & Events,Sports Sponsorships & Promotions,150000,2025-01-03 00:00:00,Corporate Credit Card,Neutral,Savings Account Upgrade
