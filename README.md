@@ -35,7 +35,9 @@ ADHD & neurodivergent individuals struggle with impulsive spending and lack o
 
 ![image](https://github.com/user-attachments/assets/e68883eb-40db-4e4f-bd8d-c567511cc618)
 
-**Solution**:  **Novel Smart BOT assistant adapts to individual and family financial needs using:**
+**Solution**: 
+
+**Novel Smart BOT assistant adapts to individual and family financial needs using:**
 
 **Combined Loan Optimization** – Analyzes family trees, credit history & browsing behavior to suggest best loan bundles.
 
