@@ -216,23 +216,38 @@ xgboost,
 speech recognition libraries
 
 ## 🚧 Challenges We Faced
+
 **Data Complexity &amp; Integration**
+
 **Challenge**: Merging family financial history, neurodivergent stress data, and elderly
 spending patterns required a robust data pipeline.
+
 **Solution**: Implemented real-time AI data fusion, allowing the system to extract and
 analyze multiple datasets seamlessly.
+
+
 **Regulatory Compliance &amp; Privacy Risks**
+
 **Challenge**: Handling financial and personal health data required strict GDPR and
 HIPAA compliance.
+
 **Solution**: Developed privacy-preserving AI algorithms that use encrypted financial data
 without exposing sensitive details.
+
+
 **AI Bias &amp; Fairness**
+
 **Challenge**: Preventing discrimination in loan approvals and fraud detection models.
+
 **Solution**: Used bias-detection algorithms to ensure fair financial recommendations for
 all demographics.
+
+
 **Elderly &amp; Neurodivergent User Experience**
+
 **Challenge**: Creating an accessible, easy-to-use AI chatbot for users with different
 cognitive needs.
+
 **Solution**: Developed adaptive UI with voice-based assistance and customized
 interaction styles.
 
