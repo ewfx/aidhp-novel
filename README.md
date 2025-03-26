@@ -14,7 +14,24 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+**Problem Statement**:Traditional financial services fail to provide personalized, adaptive, and accessible solutions for individuals and families with diverse financial needs. Key challenges include:
+**Fragmented Loan Offerings**
+Users struggle to find optimal auto + home loan combinations due to static, one-size-fits-all lending models.
+**Inefficient Wealth Transfer & Tax Planning**
+Families face high estate taxes and suboptimal wealth transfer strategies due to the lack of AI-driven planning.
+**Elderly Financial Fraud & Exploitation**
+Seniors are targeted by financial scams, but current fraud detection systems fail to adapt to individual spending behaviors.
+**Financial Challenges for Neurodivergent Users**
+ADHD & neurodivergent individuals struggle with impulsive spending and lack of adaptive financial guidance.
+
+**Solution:**  Novel Smart BOT assistant adapts to individual and family financial needs using:
+
+**Combined Loan Optimization** – Analyzes family trees, credit history & browsing behavior to suggest best loan bundles.
+**Smart Estate & Tax Planning** – AI-driven predictions optimize asset growth & multi-generational wealth transfer.
+**Elderly Fraud Protection** – AI-powered risk alerts detect unusual financial activity in real time.
+**Neurodivergent Financial Coaching** – NLP chatbots & adaptive smart reminders help improve financial habits.
+
+
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
