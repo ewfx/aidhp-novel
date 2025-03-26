@@ -33,11 +33,8 @@ ADHD & neurodivergent individuals struggle with impulsive spending and lack o
 
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+📹 [Video Demo](https://youtu.be/-i8bD_Mvxjo) (if applicable)  
 
-![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
