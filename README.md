@@ -39,13 +39,13 @@ ADHD & neurodivergent individuals struggle with impulsive spending and lack o
 
 **Novel Smart BOT assistant adapts to individual and family financial needs using:**
 
-**Combined Loan Optimization** – Analyzes family trees, credit history & browsing behavior to suggest best loan bundles.
+**1.Combined Loan Optimization** – Analyzes family trees, credit history & browsing behavior to suggest best loan bundles.
 
-**Smart Estate & Tax Planning** – AI-driven predictions optimize asset growth & multi-generational wealth transfer.
+**2.Smart Estate & Tax Planning** – AI-driven predictions optimize asset growth & multi-generational wealth transfer.
 
-**Elderly Fraud Protection** – AI-powered risk alerts detect unusual financial activity in real time.
+**3.Elderly Fraud Protection** – AI-powered risk alerts detect unusual financial activity in real time.
 
-**Neurodivergent Financial Coaching** – NLP chatbots & adaptive smart reminders help improve financial habits.
+**4.Neurodivergent Financial Coaching** – NLP chatbots & adaptive smart reminders help improve financial habits.
 
 
 
