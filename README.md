@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Novel SmartBOT
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
