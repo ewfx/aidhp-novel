@@ -81,6 +81,7 @@ We saw an opportunity to combine AI, financial data, and family trees to create:
 Our AI-powered financial assistant is designed to provide personalized, secure, and adaptive banking solutions across generations. Here’s how it transforms banking:
 
 **1. Hyper-Personalized Loan Offers (Auto + Home)** 🚗🏡
+
 **Functionality:**
 ✔️ Analyzes family tree + credit history to recommend the best loan combinations.
 
@@ -106,6 +107,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✅ Helps families minimize tax losses and maximize generational wealth transfer.
 
 ⚠️ **3. Fraud Prevention for Elderly Family Members** 👵🔐
+
 **Functionality:**
 
 ✔️ Uses AI-driven risk alerts to detect suspicious transactions in real time.
@@ -119,6 +121,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 
 
 🧠**4. Real-Time Financial Coaching for ADHD & Neurodivergent Users** 📊
+
 **Functionality:**
 
 ✔️ Provides NLP-powered chatbot assistance for personalized budgeting.
@@ -132,6 +135,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 
 
 **5. Multi-Modal Input Support: Voice & Text** 🗣️💬
+
 **Functionality:**
 
 ✔️ Accepts both voice and text input for seamless interactions.
@@ -145,6 +149,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 
 
 📈 **6.Family-Based Financial Insights** 👨‍👩‍👧‍👦
+
 **Functionality:**
 
 ✔️ Leverages family tree data to recommend financial products for family members.
@@ -158,6 +163,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 
 
 📊 **7.AI-Powered Financial Insights Dashboard** 📉
+
 **Functionality:**
 
 ✔️ Provides real-time analytics on loans, savings, expenses, and investments.
