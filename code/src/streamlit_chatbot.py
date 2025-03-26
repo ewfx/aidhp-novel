@@ -54,7 +54,7 @@ customer_df["Customer_id"] = customer_df["Customer_id"]
 customer_df["Co-Borrower"] = customer_df["Co-Borrower"]
 customer_df.dropna(subset=["Customer_id"], inplace=True)
 
-client = genai.Client(api_key="AIzaSyDRbVUg2zvMwK5S3QpBtou5h8JFXOcIDfs")
+client = genai.Client(api_key="AIzaSyABk2sdEeMLZB94AERFjo81eama85LJpoM")
 
 def display_message(message):
     if "❌" in message:
@@ -198,6 +198,30 @@ with col2:
                 st.error("Sorry, could not understand the speech.")
             except sr.RequestError:
                 st.error("Could not connect to the speech recognition service.")
+
+def get_neurodivergence_status(customer_id):
+    customer = customer_df[customer_df["Customer_id"] == customer_id]
+    if customer.empty:
+        return "None"
+    return customer["Neurodivergence"].values[0]  
+
+def neurodivergence_message():
+    return """
+    🕒 **Smart Financial Reminders**:
+    - Get **bill due alerts** 3 days before the deadline.  
+    - Receive **daily spending check-ins** to stay on track.  
+    - Try a **savings challenge** to build better habits.  
+
+    💡 **Would you like to auto-schedule payments for better control?**  
+    """
+
+neuro_status = get_neurodivergence_status(customer_id)
+
+if neuro_status and neuro_status.lower() != "none":
+    if st.button("📌 Smart Financial Reminders"):
+        st.success(neurodivergence_message())
+
+
 if user_message:
     response = casual_chat(user_message)
     st.text_area("🤖 Chatbot:", value=response, height=150)
