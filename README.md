@@ -191,11 +191,12 @@ interaction styles.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: Streamlit
+- 🔹 Backend: Python / Jupyter
+- 🔹 Database: CSV files
+- 🔹 Other: Gemini API
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Bhavya Singh** - [GitHub](https://github.com/bhavya0210/) 
+- **Priyanka Malisetti** - [GitHub](https://github.com/MalisettiPriyanka) 
+- **Prapulla B**
