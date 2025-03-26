@@ -141,18 +141,17 @@ Blockchain-Based Smart Contracts for secure wealth transfers & fraud preventio
 Real-Time Geolocation-Based Fraud Detection for instant risk alerts.
 Expanding Beyond Voice & Text – Our smart bot will support image, video, and other multimodal inputs, enabling users to manage finances through visual receipts, handwritten notes, and even sign language recognition.
 Multilingual AI Expansion to serve diverse global users with financial accessibility needs.
-![image](https://github.com/user-attachments/assets/c6fd21bb-0c3e-4cb3-89a7-19e335baa78e)
-
 
 ## 🛠️ How We Built It
 python
-streamlit for deployment
+streamlit
 jypyter notebook
-gemini
-python ds libs pandas nad numpy
+gemini api
+numpy
+pandas
 scikit learn
 xgboost
-speech recognition
+speech recognition libraries
 
 ## 🚧 Challenges We Faced
 **Data Complexity &amp; Integration**
@@ -178,7 +177,7 @@ interaction styles.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+  [git clone https://github.com/your-repo.git](https://github.com/ewfx/aidhp-novel.git)
    ```
 2. Install dependencies  
    ```sh
