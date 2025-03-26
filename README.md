@@ -91,6 +91,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Provides real-time comparisons across multiple lenders.
 
 **Benefit:**
+
 ✅ Helps customers secure better interest rates and higher loan approvals.
 
 
@@ -106,6 +107,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Predicts future tax implications and suggests ways to reduce estate tax burdens.
 
 **Benefit**:
+
 ✅ Helps families minimize tax losses and maximize generational wealth transfer.
 
 
@@ -121,6 +123,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Provides emergency fraud alerts to family members or banks.
 
 **Benefit:**
+
 ✅ Protects elderly users from financial fraud and scams.
 
 
@@ -136,6 +139,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Analyzes spending patterns and categorizes expenses for better financial habits.
 
 **Benefit:**
+
 ✅ Helps neurodivergent users manage impulsive spending and build financial stability.
 
 
@@ -151,6 +155,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Future support for image & video input (e.g., document scanning).
 
 **Benefit:**
+
 ✅ Enhances accessibility for elderly and neurodivergent users.
 
 
@@ -166,6 +171,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Provides holistic financial planning for multi-generational wealth growth.
 
 **Benefit:**
+
 ✅ Banks gain new customers, and families get optimized financial solutions.
 
 
@@ -181,14 +187,21 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 ✔️ Predicts financial trends using AI-powered forecasting.
 
 **Benefit:**
+
 ✅ Helps users make smarter financial decisions with AI-driven insights.
 
 **Future Enhancements:**
+
 1)AI-Powered Legal & Tax Compliance Checks for estate planning automation.
+
 2)Voice & Gesture-Based Financial Coaching for elderly & neurodivergent users.
+
 3)Blockchain-Based Smart Contracts for secure wealth transfers & fraud prevention.
+
 4)Real-Time Geolocation-Based Fraud Detection for instant risk alerts.
+
 5)Expanding Beyond Voice & Text – Our smart bot will support  video, and other multimodal inputs, enabling users to manage finances through visual receipts, handwritten notes, and even sign language recognition.
+
 6)Multilingual AI Expansion to serve diverse global users with financial accessibility needs.
 
 ## 🛠️ How We Built It
