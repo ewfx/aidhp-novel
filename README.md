@@ -71,7 +71,7 @@ We saw an opportunity to combine AI, financial data, and family trees to create:
 Key Features & Functionalities of Novel SmartBot
 Our AI-powered financial assistant is designed to provide personalized, secure, and adaptive banking solutions across generations. Here’s how it transforms banking:
 
-🌟 1. Hyper-Personalized Loan Offers (Auto + Home) 🚗🏡
+🌟 **1. Hyper-Personalized Loan Offers (Auto + Home)** 🚗🏡
 🔹 Functionality:
 ✔️ Analyzes family tree + credit history to recommend the best loan combinations.
 ✔️ Uses browsing behavior, financial condition, and loan history to optimize loan eligibility.
@@ -80,7 +80,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Helps customers secure better interest rates and higher loan approvals.
 
-🔍 2. AI-Driven Wealth Transfer & Tax Optimization 💰
+🔍 **2. AI-Driven Wealth Transfer & Tax Optimization** 💰
 🔹 Functionality:
 ✔️ Uses AI-based estate planning to optimize inheritance and tax liabilities.
 ✔️ Analyzes family income patterns and asset growth to offer wealth transfer strategies.
@@ -89,7 +89,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Helps families minimize tax losses and maximize generational wealth transfer.
 
-⚠️ 3. Fraud Prevention for Elderly Family Members 👵🔐
+⚠️ **3. Fraud Prevention for Elderly Family Members** 👵🔐
 🔹 Functionality:
 ✔️ Uses AI-driven risk alerts to detect suspicious transactions in real time.
 ✔️ Monitors elderly spending behavior and flags unusual patterns.
@@ -98,7 +98,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Protects elderly users from financial fraud and scams.
 
-🧠 4. Real-Time Financial Coaching for ADHD & Neurodivergent Users 📊
+🧠**4. Real-Time Financial Coaching for ADHD & Neurodivergent Users** 📊
 🔹 Functionality:
 ✔️ Provides NLP-powered chatbot assistance for personalized budgeting.
 ✔️ Uses AI-driven smart reminders to help users stay on track with payments.
@@ -107,7 +107,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Helps neurodivergent users manage impulsive spending and build financial stability.
 
-🎤 5. Multi-Modal Input Support: Voice & Text 🗣️💬
+🎤 **5. Multi-Modal Input Support: Voice & Text** 🗣️💬
 🔹 Functionality:
 ✔️ Accepts both voice and text input for seamless interactions.
 ✔️ Uses speech-to-text AI for accessibility.
@@ -116,7 +116,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Enhances accessibility for elderly and neurodivergent users.
 
-📈 6. Family-Based Financial Insights 👨‍👩‍👧‍👦
+📈 **6.Family-Based Financial Insights** 👨‍👩‍👧‍👦
 🔹 Functionality:
 ✔️ Leverages family tree data to recommend financial products for family members.
 ✔️ Helps banks acquire new customers through existing family networks.
@@ -125,7 +125,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Banks gain new customers, and families get optimized financial solutions.
 
-📊 7. AI-Powered Financial Insights Dashboard 📉
+📊 **7.AI-Powered Financial Insights Dashboard** 📉
 🔹 Functionality:
 ✔️ Provides real-time analytics on loans, savings, expenses, and investments.
 ✔️ Offers customized financial reports based on user goals.
@@ -134,7 +134,7 @@ Our AI-powered financial assistant is designed to provide personalized, secure, 
 🔹 Benefit:
 ✅ Helps users make smarter financial decisions with AI-driven insights.
 
-🔹 Future Enhancements:
+🔹 **Future Enhancements:**
 AI-Powered Legal & Tax Compliance Checks for estate planning automation.
 Voice & Gesture-Based Financial Coaching for elderly & neurodivergent users.
 Blockchain-Based Smart Contracts for secure wealth transfers & fraud prevention.
